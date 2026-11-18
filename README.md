@@ -1,6 +1,6 @@
 # phone
 
-#how
+## how
 Made using Onshape tools. Download the STL, upload it to a slicer, and print!!!! Supports may be needed 
 
 Just put up for display and enjoy!!!
